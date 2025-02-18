@@ -1,7 +1,6 @@
 # Testes Cypress - Projeto de Teste de Funcionalidades
 
 Esse repositório foi criado com o propósito de estudo e prática. O foco é aprender e aprimorar habilidades no uso do framework Cypress para automação de testes. Este repositório contém testes automatizados utilizando o framework Cypress. O objetivo é realizar a validação de funcionalidades em uma aplicação web, como a aceitação de cookies, navegação entre serviços recomendados por perfil e a navegação entre diferentes categorias de serviços.
-Foi criado
 
 ## Pré-requisitos
 Antes de começar, é necessário ter as seguintes dependências instaladas:
