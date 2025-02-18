@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "module": "commonjs", // Usa o sistema de módulos CommonJS
+        "strict": true, // Ativa verificações de tipo estritas
+        "esModuleInterop": true, // Permite a importação de módulos CommonJS em ES6
+        "skipLibCheck": true, // Ignora verificações de tipo em arquivos de declaração de biblioteca
+        "forceConsistentCasingInFileNames": true,
+        "baseUrl": "/",                     // Define a base URL para módulos
+        "lib": [
+            "es2020",
+            "dom"
+        ],
+        "types": [
+            "cypress",
+            "node"
+        ],
+
+    },
+    "include": [
+        "cypress/**/*.ts",
+        "cypress.config.ts"
+    ],
+    "exclude": [
+        "node_modules" // Exclui a pasta node_modules
+    ]
+}
