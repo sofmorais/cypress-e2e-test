@@ -19,7 +19,7 @@ Para executar os testes automatizados com o Cypress em modo interativo, utilize 
 ## Estrutura dos Testes
 O repositório contém os seguintes testes:
 
-Teste de Aceitação de Cookies: Valida o comportamento do banner de cookies e a aceitação dos cookies ao clicar no botão apropriado.
-Teste de Serviços Recomendados por Perfil: Verifica a exibição e a navegação para os serviços recomendados com base no perfil de usuário (por exemplo, advogado, aposentado).
-Teste de Navegação entre Serviços em Destaque: Testa a navegação entre os serviços mais acessados e os serviços em destaque do tribunal.
-Teste de Navegação entre Serviços por Categoria: Valida a navegação entre categorias de serviços.
+-  Teste de Aceitação de Cookies: Valida o comportamento do banner de cookies e a aceitação dos cookies ao clicar no botão apropriado.
+- Teste de Serviços Recomendados por Perfil: Verifica a exibição e a navegação para os serviços recomendados com base no perfil de usuário (por exemplo, advogado, aposentado).
+- Teste de Navegação entre Serviços em Destaque: Testa a navegação entre os serviços mais acessados e os serviços em destaque do tribunal.
+- Teste de Navegação entre Serviços por Categoria: Valida a navegação entre categorias de serviços.
